@@ -1,4 +1,4 @@
-# Lista de Questões de Vetores na Linguagem C
+# Lista de Exercício sobre Vetores na Linguagem C++
 
 <p>Essa lista apresentar um documento no formato PDF com cerca de 50 questões sobre vetores. Para achar a resposta de determinada pergunta, é necessário ver o número da questão, 
 e abrir o arquivo que corresponde a essa numeração!</p>
