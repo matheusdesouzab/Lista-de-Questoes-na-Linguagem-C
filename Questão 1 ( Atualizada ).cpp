@@ -1,8 +1,7 @@
-//(1) Faça	um	algoritmo	que	receba	um	vetor	inteiro	de	10	posições	e	imprima-o	na	ordem	inversa	à	da	leitura.		
+//(1) FaÃ§a	um	algoritmo	que	receba	um	vetor	inteiro	de	10	posiÃ§Ãµes	e	imprima-o	na	ordem	inversa	Ã 	da	leitura.		
 #include<stdio.h>
 #include<stdlib.h>
-int main(){
-	bool t=true;	
+int main(){	
 int n;
 printf("Informe Numero: ");
 scanf("%d",&n);
